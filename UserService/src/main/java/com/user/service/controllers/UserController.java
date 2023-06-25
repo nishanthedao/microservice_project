@@ -1,6 +1,7 @@
 package com.user.service.controllers;
 
 import com.user.service.entity.User;
+import com.user.service.external.services.HotelService;
 import com.user.service.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
